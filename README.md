@@ -1,3 +1,4 @@
 # tylermainguy.github.io
-My website :)
+Personal website!
+
 domain: tylermainguy.com
