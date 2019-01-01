@@ -1,4 +1,4 @@
 # tylermainguy.github.io
 Personal website!
 
-domain: tylermainguy.com
+**domain**: https://tylermainguy.com
